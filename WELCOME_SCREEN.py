@@ -135,7 +135,7 @@ class MusicApp_Welcome_Screen(QMainWindow):
 
     # ---------------- Animation ----------------
     def start_animation(self):
-        duration = 750  # ms
+        duration = 50  # ms
 
         # List of widgets to animate
         widgets = []
