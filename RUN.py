@@ -5,5 +5,7 @@
 
 from GUI_MAIN import main
 
+PROJECT_NAME = "BeatStudio"
+
 if __name__ == "__main__":
-    main()
+    main(f"{PROJECT_NAME}")
